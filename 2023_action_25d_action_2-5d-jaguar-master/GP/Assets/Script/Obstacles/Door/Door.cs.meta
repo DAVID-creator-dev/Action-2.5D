@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:GP/Assets/Script/Obstacles/PlatformTrigger.cs.meta
+guid: b64ce330de543444c99fc921a7afa654
+========
+guid: e479bd7b05052724faec736770047665
+>>>>>>>> 1d85f8d (refont pressure plate and add first saw system):GP/Assets/DoorOpen.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
